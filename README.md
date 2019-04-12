@@ -1,0 +1,1 @@
+# The project which we are building is an Airline Database System. It comes under the Airport authority. The proposed project is for the airline employees as well as for passengers for their ease of travel and so that airline employees can quickly make changes in the system. We have built a Kiosk system for passengers to print their ticket quickly.
